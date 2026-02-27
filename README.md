@@ -1,5 +1,8 @@
 # 🔍 Aura-Find
 
+![Aura-Find Preview](screenshot.png)
+
+A modern, fast, GUI-based application discovery tool...
 A modern, fast, GUI-based application discovery tool tailored for Arch Linux. 
 
 Aura-Find allows you to instantly search for Linux application alternatives, pulling live data from the official Arch repositories, the AUR, and a local offline database. Built with Python and PyQt6, it integrates beautifully into modern Linux desktop environments like KDE Plasma.
