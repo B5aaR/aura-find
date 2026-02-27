@@ -1,0 +1,15 @@
+{
+  "windows_apps": {
+    "photoshop": [
+      {"name": "gimp", "desc": "GNU Image Manipulation Program (Official)"},
+      {"name": "krita", "desc": "Digital painting and illustration (Official)"}
+    ],
+    "word": [
+      {"name": "libreoffice-fresh", "desc": "A feature-rich office suite (Official)"}
+    ],
+    "premiere": [
+      {"name": "kdenlive", "desc": "Non-linear video editor for KDE (Official)"},
+      {"name": "davinci-resolve", "desc": "Professional video editing (AUR)"}
+    ]
+  }
+}
