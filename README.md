@@ -17,5 +17,22 @@ Since Aura-Find is packaged with a standard `PKGBUILD`, installing it on any Arc
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/B5aaR/aura-find.git](https://github.com/B5aaR/aura-find.git)
+   git clone https://github.com/B5aaR/aura-find.git https://github.com/B5aaR/aura-find.git
    cd aura-find
+Build and install the package:
+
+Bash
+makepkg -si
+🚀 Usage
+Once installed, Aura-Find functions as a native system application.
+
+Press your Super (Windows) key, type Aura-Find, and launch it directly from your app menu.
+
+Alternatively, launch it from the terminal by typing aura-find.
+
+🛠️ Built With
+Python 3
+
+PyQt6
+
+Arch Linux APIs
